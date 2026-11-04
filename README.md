@@ -8,7 +8,7 @@ Put a disc in. Press Start. Go make popcorn.
 
 Trans Coded works out what the disc is, shrinks it to a sensible size, names it properly and files it in a Library you can watch from any Mac in the house. No more renaming files by hand at 1 a.m. like some kind of raccoon.
 
-*Created by a transgender person in Canada.* Yes, the leaf is the trans flag. Yes, it's pixelated on purpose. No, we will not be taking questions.
+*Made by a trans person in Canada.* Yes, the leaf is the trans flag. Yes, it's pixelated on purpose. No, we will not be taking questions.
 
 ## Get it
 
