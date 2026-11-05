@@ -28,6 +28,9 @@ It fetches the free tools straight from the people who make them (HandBrake, Mak
 - **Proper names, every time.** *Movie (Year)*. *Show S01E05*. Checked against TheMovieDB and IMDb. Nothing gets guessed: if Trans Coded isn't sure, it asks you instead of making something up.
 - **Smaller files, fast.** Shrunk with HandBrake on your Mac's own video hardware, so a movie takes minutes, not your whole evening.
 - **Your own Library.** Posters, search, and one-click play in VLC or right in the browser. Already use Plex, Jellyfin, Emby or Kodi? It files everything the way they like it, too.
+- **Pick your size.** One Quality button: smaller files, balanced, or the sharpest picture, plus the biggest a movie can be. It can slim down movies already in your library too, one at a time, originals set aside (never deleted).
+- **Tidy names in one click.** Real episode titles instead of "rides", and movie files named after their folders instead of "WEBDL-720p-GRP-whatever". You see every change first. Nothing is overwritten, ever.
+- **It knows its languages.** Each title on a disc shows its audio languages, so the German-commentary copy doesn't sneak into your library dressed as the movie.
 - **The Waiting Room.** Calm scenes, music, trivia about whatever you're ripping, and a quiz. Because staring at a progress bar is a crime against joy.
 
 ## What you need
