@@ -51,6 +51,10 @@ button { align-self: flex-start; font: 700 15px var(--display); letter-spacing: 
   background: var(--blue); color: #10202b; border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--line);
   padding: 10px 18px; }
 button:active { transform: translate(4px, 4px); box-shadow: none; }
+footer .fb { align-self: center; margin: 6px 0 10px; font: 700 15px var(--display); letter-spacing: .04em; text-decoration: none;
+  background: var(--pink); color: #2a1218; border: 3px solid var(--line); box-shadow: 4px 4px 0 var(--line); padding: 10px 18px; }
+footer .fb:active { transform: translate(4px, 4px); box-shadow: none; }
+footer .fb:focus-visible { outline: 3px dashed var(--blue); outline-offset: 3px; }
 button:focus-visible { outline: 3px dashed var(--pink); outline-offset: 3px; }
 .copied { background: var(--pink); }
 
@@ -111,7 +115,8 @@ footer strong { font: 700 14px var(--display); color: var(--ink); letter-spacing
 
   <footer>
     <strong>This is a beta</strong>
-    <span>Something odd? Tell whoever sent you this link.</span>
+    <span>Something odd, or something you loved?</span>
+    <a class="fb" href="https://docs.google.com/forms/d/e/1FAIpQLSekcrtuPjeQumhsD1h-p1NF-BbajKhy9fbETZ_BZ75JmeMTUg/viewform?usp=pp_url&amp;entry.1306880552=welcome+page" target="_blank" rel="noopener">Send feedback</a>
     <span>Made by a trans person in Canada</span>
   </footer>
 </main>
