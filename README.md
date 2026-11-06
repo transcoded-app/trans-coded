@@ -18,7 +18,7 @@ On the Mac your disc drive plugs into, open **Terminal** (press ⌘ Space, type 
 curl -fsSL https://github.com/transcoded-app/trans-coded/releases/latest/download/get-trans-coded.sh | bash
 ```
 
-Answer a few quick questions. That's it. That's the setup.
+Answer a few quick questions. That's it. That's the setup. No accounts, no keys, no sign-ups, and about three minutes start to finish.
 
 It fetches the free tools straight from the people who make them (HandBrake, MakeMKV and VLC), asks where your movies and shows should live, and opens the dashboard when it's done. Run the same line again any time to update. Your settings stay put, like a cat on a warm laptop.
 
@@ -48,10 +48,10 @@ Bugs, strange discs, a sentence that made no sense: send it all. Trans Coded get
 ## Uninstall
 
 ```
-bash ~/"Trans Coded"/uninstall.sh
+curl -fsSL https://github.com/transcoded-app/trans-coded/releases/latest/download/uninstall.sh | bash
 ```
 
-It removes Trans Coded and asks before touching HandBrake, MakeMKV or VLC. Your movies and shows are never touched. We're not monsters.
+It moves Trans Coded to the Trash (not deleted) and asks before touching HandBrake, MakeMKV or VLC. Your movies and shows are never touched. We're not monsters.
 
 ## The fine print
 
